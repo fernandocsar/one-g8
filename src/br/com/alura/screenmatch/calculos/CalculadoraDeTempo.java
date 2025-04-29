@@ -24,5 +24,3 @@ public class CalculadoraDeTempo {
         this.tempoTotal += titulo.getDuracaoEmMinutos();
     }
 }
-
-// teste
