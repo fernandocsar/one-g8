@@ -3,7 +3,7 @@
 
 # Java: consumindo uma API, gravando arquivos e lidando com erros
 
-Projeto desenvolvido no quarto curso da formação Java da Alura
+Projeto desenvolvido no quarto curso da formação Java One G8
 
 
 ## 🔨 Objetivos do projeto
